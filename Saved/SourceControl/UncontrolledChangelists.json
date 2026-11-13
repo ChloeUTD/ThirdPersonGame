@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/_Game/Blueprints/Actors/BP_PickupBase.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/_Game/Audio/Item3.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/_Game/Audio/Item2.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/_Game/Audio/Item1.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/_Game/Audio/Item1_Cue.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/_Game/Audio/Item2_Cue.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/_Game/Audio/Item3_Cue.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/_Game/Particles/PS_PickupBurst.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/_Game/Blueprints/Actors/BP_CollectiblePickup.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/_Game/Particles/PS_CollectibleBurst.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/_Game/Blueprints/BP_ThirdPersonPlayerState.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/_Game/Blueprints/Actors/BP_SpeedIncreasePickup.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/_Game/Particles/PS_PickupBurst1.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/_Game/Particles/PS_SpeedIncreaseBurst.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/XI/KX6M1SNY2HUC2ZNS6KPBE5.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/HH/N3ONAFETAVJO7PKFTFRSC9.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/WI/99PYDBY653ORYEQRD57A1D.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/XA/JSRDN8YBRKM8M0QOGL08YO.uasset"
+			]
+		}
+	]
+}

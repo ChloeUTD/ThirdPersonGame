@@ -19,12 +19,17 @@
 				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/_Game/Blueprints/Actors/BP_SpeedIncreasePickup.uasset",
 				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/_Game/Particles/PS_PickupBurst1.uasset",
 				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/_Game/Particles/PS_SpeedIncreaseBurst.uasset",
 				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/XI/KX6M1SNY2HUC2ZNS6KPBE5.uasset",
 				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/HH/N3ONAFETAVJO7PKFTFRSC9.uasset",
 				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/WI/99PYDBY653ORYEQRD57A1D.uasset",
-				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/XA/JSRDN8YBRKM8M0QOGL08YO.uasset"
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/XA/JSRDN8YBRKM8M0QOGL08YO.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/_Game/UI/WBP_PlayerHUD.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/_Game/Blueprints/Actors/BP_JumpIncreasePickup.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/7L/CQT7WSVOB0YDT1KDEWTJNQ.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/TemplateResources/M_Template_Master.uasset",
+				"C:/Users/Chloe/Documents/School/Senior/Scriptingforgames/ThirdPersonGame/Content/_Game/Particles/PS_PickupBurst1.uasset"
 			]
 		}
 	]
